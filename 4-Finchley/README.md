@@ -9,12 +9,6 @@
 - Spring For All社区：http://www.spring4all.com/
 - Spring Boot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
 - Spring Cloud基础教程：http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
-- **公益调试Eureka：http://eureka.didispace.com**
-
-**优惠云服务推荐**
-
-- [阿里云：ECS云服务器2折起](https://www.aliyun.com/sale-season/2020/procurement-new-members?userCode=wxfqkr0o)
-- [腾讯云：3年时长最低265元/年](https://url.cn/5iF8JP2)
 
 ## 教程列表
 
@@ -27,10 +21,6 @@
 - [Spring Cloud Finchley版中Consul多实例注册的问题处理](http://blog.didispace.com/Spring-Cloud-Finchley-Consul-InstanceId/)
 
 ##### Spring Cloud Aliabab专题
-
-- [Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
-- [说说我为什么看好Spring Cloud Alibaba](http://blog.didispace.com/spring-cloud-alibaba-significance/)
-- [Spring Cloud Alibaba到底坑不坑？](http://blog.didispace.com/bo-kengdie-spring-cloud-alibaba/)
 
 *注册中心与配置中心：Nacos*
 
@@ -145,14 +135,6 @@
 - [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
 - [基于Consul的分布式锁实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore/)
 - [基于Consul的分布式信号量实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore-2/)
-
-## 我的公众号
-
-![](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
-
-## 推荐我的书
-
-![](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
 
 ## 其他推荐
 
